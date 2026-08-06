@@ -1,0 +1,15 @@
+{
+  "name": "@rate-limiter/rate-limiter",
+  "version": "1.0.0",
+  "description": "Production-grade rate limiting library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": ["rate-limiting", "token-bucket", "sliding-window", "adaptive", "throttling", "request-limiting"],
+  "author": "Mohammad Hossinze",
+  "license": "MIT
+�
